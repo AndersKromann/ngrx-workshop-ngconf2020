@@ -3,19 +3,49 @@
     {
       "id": "ca66d740-e41d-4b70-aea1-a8a20759a647",
       "name": "The Lion, the Witch and the Wardrobe",
-      "earnings": "850000001",
+      "earnings": "8500000",
       "description": ""
     },
     {
-      "id": "408c6851-7b7a-439e-b6db-9fb65ea61071",
-      "name": "The Adventures of Pinocchio",
-      "earnings": "85000000",
-      "description": ""
+      "id": "623e8211-2375-49d4-9f52-d30fa7bbb074",
+      "name": "asd",
+      "earnings": "321",
+      "description": null
     },
     {
-      "id": "45012130-9143-4add-a29f-0898e8f33ae3",
-      "name": "booki",
-      "earnings": "50000000",
+      "id": "85b74698-dfd3-4b33-ad4d-dd205c8b5027",
+      "name": "asd",
+      "earnings": "321",
+      "description": null
+    },
+    {
+      "id": "d6aeeea7-6080-49e2-a338-0314dc9ef9f6",
+      "name": "asd",
+      "earnings": "321",
+      "description": null
+    },
+    {
+      "id": "fab78945-76d7-4437-b526-7ae0aecdc693",
+      "name": "asd",
+      "earnings": "531",
+      "description": null
+    },
+    {
+      "id": "6f8f2259-ef48-4c11-973e-1a4e40ac679b",
+      "name": "hej",
+      "earnings": "1234",
+      "description": null
+    },
+    {
+      "id": "9a524d4a-6e3d-4a2c-b73e-1a4a046ee7e8",
+      "name": "newbook",
+      "earnings": "123456",
+      "description": null
+    },
+    {
+      "id": "8a1f061e-4137-435d-aa5e-8fbe8692063d",
+      "name": "newbook",
+      "earnings": "123456",
       "description": null
     }
   ]
