@@ -3,7 +3,7 @@
     {
       "id": "ca66d740-e41d-4b70-aea1-a8a20759a647",
       "name": "The Lion, the Witch and the Wardrobe",
-      "earnings": "85000000",
+      "earnings": "850000001",
       "description": ""
     },
     {
@@ -16,12 +16,6 @@
       "id": "45012130-9143-4add-a29f-0898e8f33ae3",
       "name": "booki",
       "earnings": "50000000",
-      "description": null
-    },
-    {
-      "id": "daceefa0-7eaa-40db-b7fc-7fb87bbb058e",
-      "name": "hej",
-      "earnings": "123",
       "description": null
     }
   ]
