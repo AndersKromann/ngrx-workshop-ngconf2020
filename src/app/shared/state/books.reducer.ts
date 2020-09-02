@@ -58,14 +58,16 @@ export const booksReducer = createReducer(
         (state, action) => {
             return {
                 ...state,
-                collection: updateBook(state.collection, action.book)
+                collection: updateBook(state.collection, action.book),
+                activeBookId: null
             };
         }),
     on(BooksApiActions.bookCreated,
         (state, action) => {
             return {
                 ...state,
-                collection: createBook(state.collection, action.book)
+                collection: createBook(state.collection, action.book),
+                activeBookId: null
             };
         })
 );

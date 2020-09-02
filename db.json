@@ -19,33 +19,27 @@
       "description": null
     },
     {
-      "id": "d6aeeea7-6080-49e2-a338-0314dc9ef9f6",
-      "name": "asd",
-      "earnings": "321",
+      "id": "b973936e-f9d8-4928-9014-229b36c95b6c",
+      "name": "Book 1 ",
+      "earnings": "152",
       "description": null
     },
     {
-      "id": "fab78945-76d7-4437-b526-7ae0aecdc693",
-      "name": "asd",
-      "earnings": "531",
+      "id": "671207b7-aa5b-4923-b426-dffeb865b2ad",
+      "name": "Book 1 ",
+      "earnings": "1522",
       "description": null
     },
     {
-      "id": "6f8f2259-ef48-4c11-973e-1a4e40ac679b",
-      "name": "hej",
-      "earnings": "1234",
+      "id": "136d5776-ecb4-413f-9423-62c7533f4888",
+      "name": "Book 2",
+      "earnings": "1245",
       "description": null
     },
     {
-      "id": "9a524d4a-6e3d-4a2c-b73e-1a4a046ee7e8",
-      "name": "newbook",
-      "earnings": "123456",
-      "description": null
-    },
-    {
-      "id": "8a1f061e-4137-435d-aa5e-8fbe8692063d",
-      "name": "newbook",
-      "earnings": "123456",
+      "id": "9f7c49e2-c776-45b6-bce6-7e7898530ad7",
+      "name": "Book 2",
+      "earnings": "124",
       "description": null
     }
   ]
